@@ -1,0 +1,4 @@
+M:\Documents\C++_Workspace\CECS 282 Lab 3\Debug\CECS 282 Lab 3.exe
+M:\Documents\C++_Workspace\CECS 282 Lab 3\Debug\CECS 282 Lab 3.pdb
+C:\Users\sonic\OneDrive\Documents\C++_Workspace\CECS 282 Lab 3\Debug\CECS 282 Lab 3.exe
+C:\Users\sonic\OneDrive\Documents\C++_Workspace\CECS 282 Lab 3\Debug\CECS 282 Lab 3.pdb
